@@ -17,3 +17,8 @@ Access the live project: https://bonamgokulvenkat.github.io/Color-Palette/
 4. Copy the hex codes or use developer tools to extract the colors.
 
 ## Project Structure
+Color-Palette/
+├── index.html
+├── styles.css # If you have CSS
+├── script.js # If you have JavaScript
+└── README.md # ← Your new file
